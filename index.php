@@ -32,7 +32,7 @@ function color($input) {
 
 <html>
 <head>
-<link rel="stylesheet" href="https://cdn.domnian.com/assets/css/minecraft.css">
+<link rel="stylesheet" href="css/minecraft.css">
 </head>
 <body class="mcfont mccolor_f" style="background: #000;">
 <?=color('§a[§6§lEmpire Minecraft§a] §bSurvival§a/§bTown§a/§bEconomy!\n§aBe a part of the community, check the forums!'); ?>
